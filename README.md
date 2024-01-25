@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**rugwed09/rugwed09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 🚀 Welcome to the hub of innovation where data meets creativity! I'm Rugwed Ninad Pimple, a wizard in the realm of Data Engineering and Analysis. With a wand made of Python, R, SQL, and a hat full of tricks from Tableau and Power BI, I turn raw numbers into captivating stories and powerful insights.
 
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 🔍 Dive into my GitHub galaxy to witness a spectacle of projects that showcase not just skill, but a passion for pushing boundaries. Here, data isn't just processed; it's given life, purpose, and a voice to tell its own story.
 
 🌐 Join me in this quest for data-driven excellence where every dataset is an opportunity, every challenge a chance to innovate, and every insight a step towards a smarter, data-empowered world!
--->
