@@ -10,4 +10,18 @@
 
 🔍 Dive into my GitHub galaxy to witness a spectacle of projects that showcase not just skill, but a passion for pushing boundaries. Here, data isn't just processed; it's given life, purpose, and a voice to tell its own story.
 
-🌐 Join me in this quest for data-driven excellence where every dataset is an opportunity, every challenge a chance to innovate, and every insight a step towards a smarter, data-empowered world!
+### 🌱 Currently Learning
+- Cloud management and financial analytics in my MS Information Systems program.
+- Exploring big data technologies, AI, and machine learning trends.
+
+### 🤔 Seeking Help With
+- Cloud-based data solutions and big data architectures.
+- Scalable data pipelines and storage solutions in cloud environments.
+
+### 💬 Ask Me About
+- Data analysis and visualization, NLP, ecological research, predictive modeling.
+- Inventory optimization strategies and real-world data applications.
+
+### 📫 How to Reach Me
+- 📧 Email: [rnpimple@syr.edu](mailto:rnpimple@syr.edu)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rugwedpimple/)
