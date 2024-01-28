@@ -24,4 +24,4 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: [rnpimple@syr.edu](mailto:rnpimple@syr.edu)
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rugwedpimple/)
+- 🔗 LinkedIn: [Rugwed Pimple](https://www.linkedin.com/in/rugwedpimple/)
