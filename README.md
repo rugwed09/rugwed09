@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi there 👋<br><br>🚀 Welcome to the hub of innovation where data meets creativity! I'm Rugwed Ninad Pimple, a wizard in the realm of Data Engineering and Analysis. With a wand made of Python, R, SQL, and a hat full of tricks from Tableau and Power BI, I turn raw numbers into captivating stories and powerful insights.<br><br>🌟 From the classrooms of Syracuse University and MIT WPU to the dynamic world of tech, my journey has been a thrilling adventure of data discovery. I've conquered challenges in diverse sectors, from ecological research to retail optimization, leaving a trail of transformed data landscapes.<br><br>💼 My professional saga features roles at Ecology Prime, Om Enterprises, and more, where I didn't just analyze data; I revolutionized how data is perceived and utilized. Projects like IntelliSpect and Industrial Asset Care aren't just projects; they're epic tales of innovation and impact.<br><br>🔍 Dive into my GitHub galaxy to witness a spectacle of projects that showcase not just skill, but a passion for pushing boundaries. Here, data isn't just processed; it's given life, purpose, and a voice to tell its own story.<br><br>🌱 Currently Learning<br><br>Cloud management and financial analytics in my MS Information Systems program.<br>Exploring big data technologies, AI, and machine learning trends.<br>🤔 Seeking Help With<br><br>Cloud-based data solutions and big data architectures.<br>Scalable data pipelines and storage solutions in cloud environments.<br>💬 Ask Me About<br><br>Data analysis and visualization, NLP, ecological research, predictive modeling.<br>Inventory optimization strategies and real-world data applications.<br>📫 How to Reach Me<br><br>📧 Email: rnpimple@syr.edu<br>🔗 LinkedIn: Rugwed Pimple
+Hi there 👋
+
+Welcome to my world of Data Engineering and Analysis! I'm Rugwed Ninad Pimple, where I blend my expertise in Python, R, SQL, with data engineering tools like Apache Hadoop, Spark, Airflow, and Docker. My proficiency extends to data visualization with Tableau and Power BI, enabling me to engineer data into compelling stories and actionable insights.
+
+🌱 **Currently Learning:** Cloud management, financial analytics, big data technologies, AI, and machine learning.
+
+🤔 **Seeking Help With:** Cloud-based data solutions, big data architectures, scalable data pipelines, and storage in cloud environments.
+
+💬 **Ask Me About:** Data analysis, visualization, NLP, ecological research, predictive modeling, and real-world data applications.
+
+📫 **How to Reach Me:**
+
+- 📧 Email: [rnpimple@syr.edu](mailto:rnpimple@syr.edu)
+
+
+
 
 
 ## 🌐 Socials:
